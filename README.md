@@ -12,6 +12,10 @@
 ---
 
 
+```bash
+python3 bot.py
+```
+
 ---
 
 ## 二、运行环境要求
@@ -58,11 +62,7 @@ pip3 install python-telegram-bot==13.15 pymongo pika tronpy pygtrans qrcode requ
 
 ## 五、推荐启动顺序（发卡机器人）
 
-### 1) 先启动机器人主程序<img width="470" height="876" alt="截屏2026-04-07 15 40 59" src="https://github.com/user-attachments/assets/9ddf6abd-5fa1-48ee-9e5a-ef07adc4ef73" />
-
-<img width="470" height="876" alt="截屏2026-04-07 15 40 59" src="https://github.com/user-attachments/assets/5f4bb299-bb62-4c86-b20c-27794ce52238" />
-
-
+### 1) 先启动机器人主程序
 
 ```bash
 python3 bot.py
