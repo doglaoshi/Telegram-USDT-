@@ -1,4 +1,4 @@
-# Fakabot 发卡机器人使用说明
+<img width="474" height="862" alt="截屏2026-04-07 15 41 14" src="https://github.com/user-attachments/assets/01552427-1ffc-420e-b78e-f8e27877befb" /><img width="470" height="876" alt="截屏2026-04-07 15 40 59" src="https://github.com/user-attachments/assets/ffb15406-0042-4ca0-aae4-cf5b4897b8ff" /># Fakabot 发卡机器人使用说明
 # 狗老师（@goulaoshi）
 这是一个基于 Telegram 的**发卡机器人**，主要用于卖号与自主发卡。核心能力包含：
 
@@ -8,8 +8,6 @@
 - 订单记录、用户记录、基础后台管理
 - USDT 余额体系（含充值监听，可选开启）
 - 自主后台上货可对接api自动更新
-
----
 
 
 ```bash
