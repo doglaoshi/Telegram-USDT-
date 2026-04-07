@@ -3,7 +3,7 @@
 这是一个基于 Telegram 的**发卡机器人**，主要用于卖号与自主发卡。核心能力包含：
 <img width="474" height="862" alt="截屏2026-04-07 15 41 14" src="https://github.com/user-attachments/assets/ded728cc-71e6-4d15-9039-b5040abe1d06" />
 <img width="470" height="876" alt="截屏2026-04-07 15 40 59" src="https://github.com/user-attachments/assets/04985969-2669-4f37-b250-da5d46aefc6c" />
-
+# 交流群 （@chuhaizq）
 - 商品分类管理（一级/二级分类）
 - 商品上架与库存管理（号包、协议号等）
 - 用户下单购买后自动发货（自主发卡）
