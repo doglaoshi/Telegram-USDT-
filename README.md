@@ -13,7 +13,6 @@
 
 
 ```bash
-python3 bot.py<img width="474" height="862" alt="截屏2026-04-07 15 41 14" src="https://github.com/user-attachments/assets/e1f0e959-beda-49bb-a5bb-967cf49a16c3" />
 
 ```
 
